@@ -15,3 +15,7 @@ https://www.antennacovid.org/participe
 
 ### Colaborações
 - Covid-Radar: crição de esforços para organizar dados para acesso de equipes interessadas em ajudar nestes surto de Covid-19.
+
+### URLs
+- https://antennacovid.org
+- https://antennacovid.slack.com

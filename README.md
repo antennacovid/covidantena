@@ -7,11 +7,11 @@
 ## 2. Grupos de interesses
 A partir destes problemas - aqui chama, cada grupo já formado (ou que será formado) tratarão um assunto
 
-Grupo 1) Ciência de dados: equipes mistas, livremente organizadas com objetivos bem definidos - tratam os problemas relevantes listados
+1) Ciência de dados: equipes mistas, livremente organizadas com objetivos bem definidos - tratam os problemas relevantes listados
 
-Grupo 2) Base de dados: equipes mistas que trabalham para criar um pipeline de consumo de dados  - tratam de conexão de bases e geração de RDTs 
+2) Base de dados: equipes mistas que trabalham para criar um pipeline de consumo de dados  - tratam de conexão de bases e geração de RDTs 
 
-Grupo 3) Curadoria de dados: profissionais de saúde voluntários com experiência em bases de dados epidemiológicas e de saúde - tratam de ajudar na utilização segura de dados
+3) Curadoria de dados: profissionais de saúde voluntários com experiência em bases de dados epidemiológicas e de saúde - tratam de ajudar na utilização segura de dados
 
 ## 3. Acesso a dados
 Com apoio do Covid-Radar traremos os dados mais perto para os grupos

@@ -10,8 +10,8 @@ A partir destes problemas - aqui chama, cada grupo já formado (ou que será for
 ## 3. Acesso a dados
 Com apoio do Covid-Radar traremos os dados mais perto para os grupos
 
-# Como faço para participar ?
+### Como faço para participar ?
 https://www.antennacovid.org/participe
 
-# Colaborações
+### Colaborações
 - Covid-Radar: crição de esforços para organizar dados para acesso de equipes interessadas em ajudar nestes surto de Covid-19.

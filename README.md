@@ -20,7 +20,7 @@ Com apoio do Covid-Radar traremos os dados mais perto para os grupos
 https://www.antennacovid.org/participe
 
 ### Colaborações
-- Covid-Radar: crição de esforços para organizar dados para acesso de equipes interessadas em ajudar nestes surto de Covid-19.
+- Covid-Radar: crição de esforços para organizar dados para acesso de equipes interessadas em ajudar nestes surto de Covid-19 [Link da apresentação](https://github.com/antennacovid/covidantena/blob/master/COVID-Radar/D4G_Covid%20Radar_v18_PT_RV.pdf)
 
 ### URLs
 - https://antennacovid.org
